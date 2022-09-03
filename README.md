@@ -6,4 +6,4 @@ Nesse Notebook estarão presentes os códigos e descrição dos desenvolvimentos
 
 ---
 
-![alt text](https://github.com/mfaysoares/GOT-Analysis/blob/main/cover.png)
+![alt text](https://github.com/mfaysoares/Alura_Cash/blob/main/banner.png)
