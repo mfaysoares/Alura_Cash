@@ -5,3 +5,5 @@
 Nesse Notebook estarão presentes os códigos e descrição dos desenvolvimentos realizados na 1º edição do Challenge Data Science, com o projeto ***Alura Cash***.
 
 ---
+
+![alt text](https://github.com/mfaysoares/GOT-Analysis/blob/main/cover.png)
