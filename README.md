@@ -7,7 +7,8 @@ Nesse Notebook estarão presentes os códigos e descrição dos desenvolvimentos
 ## **Observações:**
 
 *   Os datasets utilizados para o projeto foram disponibilizados pela [Alura](https://www.alura.com.br/) ao longo das semanas de desenvolvimento;
-*   O arquivo GOT.ipynb apresenta o notebook com as análises realizadas. Disponível também no link https://github.com/mfaysoares/GOT-Analysis/blob/main/GOT.ipynb
+*   O arquivo Alura_Cash.ipynb apresenta o notebook com as análises realizadas. Disponível também no link https://github.com/mfaysoares/Alura_Cash/blob/main/Alura_Cash.ipynb;
+*   O desenvolvimento do dashboard de análise está presente no arquivo Alura_Cash.pbix. Disponível também no link https://github.com/mfaysoares/Alura_Cash/blob/main/Alura_Cash.pbix.
 
 ---
 
